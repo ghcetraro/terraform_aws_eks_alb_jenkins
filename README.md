@@ -125,3 +125,26 @@ Resources that are going to be deployed
 	Load Balancer
 	Route53
 
+
+
+---
+
+## Documentación del proyecto
+
+- [Changelog](CHANGELOG.md)
+- [Contribuir](CONTRIBUTING.md)
+
+---
+
+## Seguridad
+
+No commitees secretos, tfvars con credenciales reales ni archivos de state.
+
+Ver [SECURITY.md](SECURITY.md).
+
+---
+
+## Licencia
+
+[MIT](LICENSE) — Copyright (c) Gabriel Cetraro
+
