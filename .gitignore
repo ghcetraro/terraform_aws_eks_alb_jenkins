@@ -1,3 +1,7 @@
 **.bk**
 **.txt**
-tmp/**
+tmp/**.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+!*.tfvars.example
